@@ -1,0 +1,22 @@
+{
+  "name": "backend-firsttable",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/claudionsc/Backend-FirstTable.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/claudionsc/Backend-FirstTable/issues"
+  },
+  "homepage": "https://github.com/claudionsc/Backend-FirstTable#readme",
+  "dependencies": {
+    "pg": "^8.8.0"
+  }
+}

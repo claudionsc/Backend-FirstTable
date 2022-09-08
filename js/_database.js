@@ -1,0 +1,1 @@
+const pg = require('pg') //require importa um módulo
