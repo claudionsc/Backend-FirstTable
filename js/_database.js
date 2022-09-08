@@ -1,10 +1,10 @@
 const pg = require('pg') //require importa um módulo
 
 const client = new pg.Client({
-    user: 'postgresql',
+    user: 'postgres',
     host: 'localhost',
-    database: 'postgresql',
-    password: 'postgresql',
+    database: 'postgres',
+    password: 'admin',
     port: 5432,
 })
 
