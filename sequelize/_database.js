@@ -7,7 +7,7 @@ const sequelize = new Sequelize({
   password: 'admin', 
   dialect: 'postgres', //qual banco de dados vai se comunicar
   port: 5432,
-  logging: true
+  logging: false
 });
 
 module.exports = sequelize
